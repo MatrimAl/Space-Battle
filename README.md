@@ -1,2 +1,2 @@
-# Space-Battle
 Yarım kalan
+joystick hareketliliğinde yarım bırakıldı
