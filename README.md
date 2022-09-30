@@ -1,2 +1,2 @@
-Yarım kalan
+[Yarım kalan]
 joystick hareketliliğinde yarım bırakıldı
