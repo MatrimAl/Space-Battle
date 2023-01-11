@@ -1,2 +1,1 @@
-[Yarım kalan]
-joystick hareketliliğinde yarım bırakıldı
+Very simple 2D Space Battle game
